@@ -1,29 +1,46 @@
-# 🔥 Heat Exchanger Optimization using Hybrid AI-PID Control (MATLAB)
+# 🚀 Hybrid AI–PID Control for Heat Exchanger Optimization
+
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange)
+![Machine Learning](https://img.shields.io/badge/ML-Regression-blue)
+![Status](https://img.shields.io/badge/Status-Published-success)
+
+---
 
 ## 📌 Overview
-This project presents a hybrid control framework combining Machine Learning 
-and PID control to optimize heat exchanger efficiency under dynamic conditions.
+This project presents a **hybrid control framework** integrating Machine Learning 
+with classical PID control to optimize heat exchanger efficiency under dynamic conditions.
 
-## ⚙️ Features
-- MATLAB-based simulation
-- PID control implementation
-- Machine learning regression model
-- Efficiency prediction (R² ~0.98)
+---
+
+## ⚙️ Key Features
+- 🔥 MATLAB-based thermal system simulation
+- 🤖 Machine Learning prediction model (R² ≈ 0.98)
+- 🎯 PID control for stability
+- ⚡ Real-time efficiency optimization
+
+---
+
+## 🧠 System Architecture
+
+[Input Conditions] → [ML Model] → [PID Controller] → [Heat Exchanger System] → [Optimized Output]
+
+---
 
 ## 📊 Results
-- Improved thermal efficiency
-- Stable system response
-- Reduced energy loss
+
+- 📈 Efficiency Improvement: Significant
+- 🎯 Model Accuracy: R² ≈ 0.98
+- ⚡ Reduced energy loss
+
+---
+
+## 🖼️ Sample Output
+
+![Results](results/plots.png)
+
+---
 
 ## 🚀 How to Run
-1. Open MATLAB
-2. Run:
-   main_model.m
 
-## 📁 Structure
-- src/ → Core MATLAB scripts
-- data/ → Dataset used
-- results/ → Output graphs & results
-
-## 👤 Author
-Lyton Mupanga
+```bash
+Open MATLAB → Run main_model.m
